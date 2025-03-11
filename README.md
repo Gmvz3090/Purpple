@@ -41,7 +41,7 @@ Purpple is an open-source pentesting framework designed to streamline security t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/PXRLO/Purpple.git
+   git clone https://github.com/Gmvz3090/Purpple.git
    cd Purpple
    
 2. **Install in editable mode:**
