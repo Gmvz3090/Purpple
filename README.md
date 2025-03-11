@@ -51,14 +51,12 @@ Purpple is an open-source pentesting framework designed to streamline security t
 
    ```bash
    pip install -e .
-   ```bash
    
 3. **Use**
 
    You can use it by writing
    ```bash
    Purpple
-   ```bash
    
 **WARNING**
 
