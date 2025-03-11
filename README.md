@@ -42,7 +42,7 @@ Purpple is an open-source pentesting framework designed to streamline security t
    ```bash
    git clone https://github.com/yourusername/Purpple.git
    cd Purpple
-   ```bash
+   
 2. **Install in editable mode:**
 
    ```bash
