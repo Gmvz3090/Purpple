@@ -34,7 +34,8 @@ Purpple is an open-source pentesting framework designed to streamline security t
 ### Prerequisites
 
 - **Python 3.12+**
-
+- **Nmap**
+  
 ### Setup
 
 1. **Clone the Repository:**
@@ -57,3 +58,5 @@ Purpple is an open-source pentesting framework designed to streamline security t
 **WARNING**
 
 I do not condone any malicious activity, this project is for **Education purpose ONLY**.
+
+
