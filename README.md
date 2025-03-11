@@ -17,11 +17,11 @@ Purpple is an open-source pentesting framework designed to streamline security t
   Provides a command-line interface (CLI) to navigate and control the framework.
 
 - **Modules Package:**  
-  - **Blue:** (Placeholder for defensive or monitoring tools)
+  - **Blue:** (Coming Soon)
   - **Red:** Offensive tools including:
     - **ExploitSearch:** Tools to search and manage exploits.
     - **OSINT:** Open-source intelligence gathering utilities.
-    - **Phishing:** Simulated phishing attack modules.
+    - **Phishing:** (Coming soon).
     - **Scanning:** Network and vulnerability scanning tools.
     - **Sniffer:** Network packet capturing and analysis.
     - **WebVuln:** Web vulnerability assessments, including tests for SQL injection, XSS, LFI, etc.
@@ -34,7 +34,6 @@ Purpple is an open-source pentesting framework designed to streamline security t
 ### Prerequisites
 
 - **Python 3.12+**
-- Virtual environment (recommended)
 
 ### Setup
 
